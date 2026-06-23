@@ -1,8 +1,8 @@
 {% include base_path %}
 
-<div class="page__footer-follow" style="font-size: 0.82em; line-height: 1.6; padding: 8px 0 4px 0; text-align: center;">
-  <span>
-    <strong>Follow:</strong>
+<div class="page__footer-copyright">
+  <strong>
+    Follow:
     {% if site.author.github %}
       <a href="https://github.com/{{ site.author.github }}">
         <i class="fab fa-github" aria-hidden="true"></i> GitHub
@@ -12,11 +12,12 @@
     {% if site.atom_feed.hide != true %}
       <span style="margin-left: 10px;">
         <a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}">
-          <i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
+          <i class="fa fa-fw fa-rss-square" aria-hidden="true" style="color: #f89406;"></i>
+          {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}
         </a>
       </span>
     {% endif %}
-  </span>
+  </strong>
 
   <span style="margin-left: 16px;">
     &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }},
@@ -27,9 +28,6 @@
   </span>
 
   <span style="margin-left: 16px;">
-    Site last updated {{ "now" | date: '%Y-%m-%d' }},
-    <a href="/sitemap/" style="text-transform: uppercase;">
-      {{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}
-    </a>
+    Site last updated {{ "now" | date: '%Y-%m-%d' }}
   </span>
 </div>
