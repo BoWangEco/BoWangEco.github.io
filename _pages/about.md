@@ -9,9 +9,9 @@ redirect_from:
 
 I am a postdoctoral researcher in ecology and geography at the Northwest Institute of Eco-Environment and Resources, Chinese Academy of Sciences. My research focuses on ecosystem resilience, multistability, and spatial interactions in vulnerable landscapes.
 
-I study how ecosystems maintain resilience, shift among alternative states, and reorganize under climate change, human management, and spatially extended ecological processes. My work uses coastal wetlands, drylands, and forest–grassland ecotones as model systems to explore general mechanisms underlying ecosystem stability and transformation.
+I study how ecosystems maintain resilience, shift among alternative states, and reorganize under climate change, human management, and spatially extended ecological processes. A central goal of my work is to develop approaches that connect ecological theory with large-scale spatial data, helping to understand how local interactions scale up to landscape-level patterns, functional connectivity, and ecosystem persistence.
 
-I combine remote sensing, field observations, dynamical systems theory, resilience diagnostics, spatial analysis, and causal inference to link ecological theory with large-scale spatial data. My current research focuses mainly on dryland ecosystems, especially how water availability, human activities, and internal feedbacks shape ecosystem quality, alternative stable states, and regime-shift risks.
+My research uses vulnerable landscapes as model systems to investigate general ecological mechanisms, with a current emphasis on dryland ecosystems. Methodologically, I integrate remote sensing, field observations, dynamical systems theory, resilience diagnostics, spatial analysis, and causal inference.
 
 <div style="display: flex; gap: 14px; flex-wrap: wrap; margin-top: 16px; margin-bottom: 22px;">
 
