@@ -13,7 +13,10 @@ author_profile: true
       <img src="/images/research/coastal_wetland_interactions2.png" alt="Coastal wetland resilience" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
-      <a href="/research/coastal-wetland-interactions/" style="text-decoration: none;">
+      <!-- <a href="/research/coastal-wetland-interactions/" style="text-decoration: none;">
+        Long-distance interactions shaping coastal wetland resilience
+      </a> -->
+      <a href="/research/coastal-wetland-interactions/" style="text-decoration: underline; text-underline-offset: 3px;">
         Long-distance interactions shaping coastal wetland resilience
       </a>
     </h3>
@@ -24,7 +27,10 @@ author_profile: true
       <img src="/images/research/dryland_water_management2.png" alt="Dryland multistability under water-resource regulation" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
-      <a href="/research/dryland-water-management/" style="text-decoration: none;">
+      <!-- <a href="/research/dryland-water-management/" style="text-decoration: none;">
+        Dryland multistability under human water-resource regulation
+      </a> -->
+      <a href="/research/dryland-water-management/" style="text-decoration: underline; text-underline-offset: 3px;">
         Dryland multistability under human water-resource regulation
       </a>
     </h3>
@@ -35,7 +41,10 @@ author_profile: true
       <img src="/images/research/global_dryland_spatial_interactions.png" alt="Global dryland spatial interactions and resilience effects" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
-      <a href="/research/global-dryland-spatial-interactions/" style="text-decoration: none;">
+      <!-- <a href="/research/global-dryland-spatial-interactions/" style="text-decoration: none;">
+        Quantifying spatial interactions and their resilience effects in global drylands
+      </a> -->
+      <a href="/research/global-dryland-spatial-interactions/" style="text-decoration: underline; text-underline-offset: 3px;">
         Quantifying spatial interactions and their resilience effects in global drylands
       </a>
     </h3>
@@ -46,7 +55,10 @@ author_profile: true
       <img src="/images/research/boreal_fire_suppression.png" alt="Fire suppression effects on boreal forest-grassland bistability and resilience" style="width:100%; aspect-ratio: 16 / 9; object-fit: cover; border-radius:6px; display:block;">
     </a>
     <h3 style="margin-top: 10px; margin-bottom: 4px; font-size: 1.12em; line-height: 1.35;">
-      <a href="/research/boreal-fire-suppression/" style="text-decoration: none;">
+      <!-- <a href="/research/boreal-fire-suppression/" style="text-decoration: none;">
+        Fire suppression effects on bistability and resilience in boreal forest–grassland systems
+      </a> -->
+      <a href="/research/boreal-fire-suppression/" style="text-decoration: underline; text-underline-offset: 3px;">
         Fire suppression effects on bistability and resilience in boreal forest–grassland systems
       </a>
     </h3>
